@@ -5,6 +5,7 @@ EDITH AI is an intelligent desktop AI assistant developed as a capstone project.
 This ensures a seamless, reliable, and uninterrupted AI experience.
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7ed36c44-b411-4680-b80d-9d94eb309143" />
 
 ## 🎥 Project Demo
 
@@ -13,6 +14,11 @@ This ensures a seamless, reliable, and uninterrupted AI experience.
 https://youtu.be/oIT5tEaFCSU
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e1832fd8-f546-4755-9a83-85c8b1b285a8" />
+
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/02212fcf-8653-4be7-98b8-f5b54bb0608d" />
 
 ## ✨ Features
 
