@@ -173,7 +173,7 @@ edith/
 
 ## 👨‍💻 Developer
 
-**Kamalesh JK**
+**Kamalesh J**
 
 AI & Data Science Student
 
